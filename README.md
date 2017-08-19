@@ -49,7 +49,7 @@
 ### Loader
 
 - [ts-loader](https://github.com/TypeStrong/ts-loader)
-  - How to use with [vue](https://vuejs.org/)?  
+  - How to use with [Vue](https://vuejs.org/)?  
     ✅ Add [`appendTsSuffixTo`](https://github.com/TypeStrong/ts-loader#appendtssuffixto-regexp-default) option.
 
     ```javascript
