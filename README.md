@@ -1,12 +1,12 @@
 # Webpack TypeScript Knowledge
 
-<p style="text-align: center;">
+<p align="center">
 	<img src="./images/webpack.png" alt="Vue" height="128" style="vertical-align: bottom;">
 	<img src="./images/ts.png" alt="Vue" height="128" style="vertical-align: bottom;">
 </p>
 <br>
 
-📚 My knowledge from using [webpack](https://webpack.js.org/) and [TypeScript](https://www.typescriptlang.org/). 
+📚 My knowledge from using [webpack](https://webpack.js.org/) and [TypeScript](https://www.typescriptlang.org/) _(and [Vue](https://vuejs.org/))_. 
 
 <br>
 
@@ -24,7 +24,7 @@
 	}
     ```
 
-## <img src="./images/webpack.png" alt="Vue" height="32" style="vertical-align: bottom;"> webpack
+## <img src="./images/webpack.png" alt="Vue" height="32" align="top"> webpack
 
 - Type declaration:
   - [`@types/webpack`](https://npm.im/@types/webpack)
@@ -62,7 +62,7 @@
 	}
     ```
 
-## [<img src="./images/vue.png" alt="Vue" height="32" style="vertical-align: bottom;"> Vue](https://vuejs.org/)
+## [<img src="./images/vue.png" alt="Vue" height="32" align="top"> Vue](https://vuejs.org/)
 
 - Recommended `tsconfig.json` config.
 
