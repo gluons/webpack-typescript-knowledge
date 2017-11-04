@@ -68,17 +68,17 @@
 
   ```json
   {
-	  "compilerOptions": {
-		  "allowSyntheticDefaultImports": true,
-		  "lib": [
-			  "dom",
-			  "es5",
-			  "es2015"
-		  ],
-		  "module": "es2015",
-		  "moduleResolution": "node",
-		  "experimentalDecorators": true // For using decorator
-	  }
+  	"compilerOptions": {
+  		"target": "es5",
+  		"module": "es2015",
+  		"moduleResolution": "node",
+  		"lib": [
+  			"dom",
+  			"es5",
+  			"es2015"
+  		],
+  		"experimentalDecorators": true // For using decorator
+  	}
   }
   ```
 
