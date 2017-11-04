@@ -1,4 +1,5 @@
 # Webpack TypeScript Knowledge
+[![license](https://img.shields.io/github/license/gluons/webpack-typescript-knowledge.svg?style=flat-square)](./LICENSE)
 
 <p align="center">
 	<img src="./images/webpack.png" alt="Vue" height="128" style="vertical-align: bottom;">
